@@ -1,0 +1,6 @@
+framework module Pods_Juicechef {
+  umbrella header "Pods-Juicechef-umbrella.h"
+
+  export *
+  module * { export * }
+}

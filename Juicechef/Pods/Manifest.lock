@@ -1,0 +1,16 @@
+PODS:
+  - Firebase (2.5.1)
+  - FontAwesomeIconFactory (2.1.1)
+  - Onboard (2.2.0)
+
+DEPENDENCIES:
+  - Firebase
+  - FontAwesomeIconFactory
+  - Onboard
+
+SPEC CHECKSUMS:
+  Firebase: 3565ea88b830f28f2c77ecc524622bc71a20d085
+  FontAwesomeIconFactory: bb9ce26d3dd13044854a82d380023c8e7d3ebf1a
+  Onboard: c46261255c0bcbe26ab2823782764c96fca7a33e
+
+COCOAPODS: 0.39.0
